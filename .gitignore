@@ -14,3 +14,6 @@ dist/
 
 # Mac files
 *.DS_Store
+
+# Too large, >100MB
+data/SIMULATED_DATA/20170324_VENICE_JWST_WORKSHOP/MIRI/MRS/det_image_seq1_MIRIFUSHORT_12SHORTexp1.fits
