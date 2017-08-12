@@ -10,7 +10,17 @@ Welcome to miri-mrs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   license
+   help
+   includeme 
+   installation
+   tutorialjwst
+   jwstinput
+   jwstdict
+   tutorialhst
+   engine
 
+   
 
 Indices and tables
 ==================
