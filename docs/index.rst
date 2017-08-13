@@ -19,7 +19,7 @@ themselves with MIRI MRS data and scientific capabilities.
    installation
    tutorialjwst
    jwstinput
-   jwstdict
+   worked_examples
    help
    license
 
