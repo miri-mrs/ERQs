@@ -3,22 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to miri-mrs's documentation!
+Community Documentation for MIRI MRS
 ====================================
+Documentation to ensure open access to representative datasets in
+support of the preparation of Cycle 2 proposals, and engage a broad
+cross-section of the astronomical community in familiarizing
+themselves with MIRI MRS data and scientific capabilities.
+
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   license
-   help
-   includeme 
+   getting_started
    installation
    tutorialjwst
    jwstinput
    jwstdict
-   tutorialhst
-   engine
+   help
+   license
 
    
 
