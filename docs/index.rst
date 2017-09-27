@@ -15,6 +15,7 @@ themselves with MIRI MRS data and scientific capabilities.
    :maxdepth: 2
    :caption: Contents:
 
+   overview	      
    getting_started
    installation
    tutorialjwst
