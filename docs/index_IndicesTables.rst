@@ -24,3 +24,10 @@ themselves with MIRI MRS data and scientific capabilities.
    license
 
    
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
